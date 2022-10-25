@@ -58,3 +58,5 @@ console.log(isCheckedTwo || !isCloseTwo); // true, поменял значени
 
 
 
+
+
